@@ -1,0 +1,21 @@
+TransactionID,Item,Sales,Month,Year
+1,Pencil,50,1,2010
+2,Ballpen,60,1,2010
+3,Yellow Pad Paper,35,1,2010
+4,Yellow Pad Paper,35,2,2010
+5,Yellow Pad Paper,35,3,2010
+6,Yellow Pad Paper,35,4,2010
+7,Calculator,1000,5,2010
+8,Pencil,50,6,2010
+9,Pencil,50,7,2010
+10,Pencil,50,7,2010
+11,Ballpen,60,7,2010
+12,Ballpen,60,8,2010
+13,Ballpen,60,9,2010
+14,Ballpen,60,10,2010
+15,Crayon,25,10,2010
+16,Notebook,80,11,2010
+17,Notebook,80,11,2010
+18,Calculator,1000,11,2010
+19,Stapler,445,12,2010
+20,Bond Paper,500,12,2010

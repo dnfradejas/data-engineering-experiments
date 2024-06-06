@@ -1,0 +1,21 @@
+ID,Year,Category,Address,Sales,Length_of_Subscription,Rating,Continue?
+1,2006,Key Accounts,QC,100000,Yes,4,Yes
+2,2006,Residential,QC,25000,No,5,Yes
+3,2006,Residential,QC,26500,No,3,No
+4,2006,Residential,Manila,25000,Yes,3,Yes
+5,2007,Key Accounts,Manila,150000,No,4,Yes
+6,2007,Commercial,Taguig,70000,Yes,4,Yes
+7,2007,Commercial,Taguig,65000,No,4,Yes
+8,2008,Commercial,Makati,55000,No,4,Yes
+9,2008,Key Accounts,Marikina,120000,No,5,No
+10,2008,Residential,Marikina,21000,Yes,3,Yes
+11,2009,Commercial,QC,75000,Yes,4,Yes
+12,2009,Residential,QC,21000,No,3,No
+13,2009,Residential,QC,16000,No,4,Yes
+14,2009,Residential,Taguig,17000,No,2,No
+15,2010,Commercial,Taguig,55000,Yes,3,Yes
+16,2010,Commercial,Manila,57500,Yes,4,Yes
+17,2011,Commercial,Manila,62000,Yes,5,Yes
+18,2011,Residential,Manila,21000,Yes,3,No
+19,2011,Key Accounts,QC,75000,Yes,5,Yes
+20,2012,Key Accounts,Makati,80000,Yes,5,Yes

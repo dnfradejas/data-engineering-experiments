@@ -1,0 +1,9 @@
+ID,Sex,Number_Children,Age,Income,Own_Car,Address,Credit_Bureau_Score,Buy_Car
+2,Male,2,37,42000,No,QC,800,Yes
+4,Male,3,56,77000,Yes,Manila,700,Yes
+7,Female,3,45,55000,No,Taguig,300,Yes
+8,Female,2,35,37000,No,Makati,550,Yes
+9,Female,1,32,34000,No,Marikina,600,Yes
+13,Female,2,54,72000,No,QC,450,Yes
+14,Female,3,48,58000,No,Taguig,500,Yes
+18,Female,1,30,31500,Yes,Manila,345,Yes

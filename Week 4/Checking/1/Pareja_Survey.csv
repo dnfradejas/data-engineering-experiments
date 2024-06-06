@@ -1,0 +1,28 @@
+ID,Place of Residence,Size of Household,Age of the Person who do the Shopping,Work Background of the Shopper,Source of Everyday Food,Mode of Transportation,Time Travel (One Way in Minutes),Shopping Time (inc the time in queuing in hours),Frequency of Shopping,Day of Shopping,Time of Shopping
+1,Parañaque,6.0,31 - 40,Unemployed,Wet Market,Walking,5.0,2.0,Every 7 days,Saturday,7:01 AM - 9:00 AM
+2,Outside Metro Manila,5.0,51 - 60,Working but No Work from Home at the Moment,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,2.0,Every 7 days,Tuesday,1:01 PM - 3:00 PM
+3,Outside Metro Manila,6.0,51 - 60,Working but No Work from Home at the Moment,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,4.0,Every 7 days,Friday,1:01 PM - 3:00 PM
+4,Outside Metro Manila,15.0,51 - 60,Essential Workforce,Wet Market,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",15.0,2.0,Everyday,Monday,7:01 AM - 9:00 AM
+6,Manila,2.0,21- 30,Working but No Work from Home at the Moment,Wet Market,Walking,5.0,5.0,Every 4 days,Wednesday,11:01 AM - 1:00 PM
+7,Caloocan,4.0,21- 30,Working but No Work from Home at the Moment,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",30.0,1.17,Every 6 days,Wednesday,11:01 AM - 1:00 PM
+8,Outside Metro Manila,7.0,41 - 50,Unemployed,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,2.0,Every 7 days,Wednesday,7:01 AM - 9:00 AM
+9,Outside Metro Manila,2.0,60 and above,Unemployed,Wet Market,Walking,30.0,2.5,Every 7 days,Monday,7:01 AM - 9:00 AM
+15,Las Piñas,3.0,41 - 50,Unemployed,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,5.0,Every 7 days,Friday,1:01 PM - 3:00 PM
+16,Quezon City,5.0,60 and above,Unemployed,Grocery,Walking,15.0,4.0,Every 7 days,Thursday,7:01 AM - 9:00 AM
+17,Quezon City,5.0,51 - 60,Working but No Work from Home at the Moment,Wet Market,Walking,30.0,1.5,Every 7 days,Wednesday,Before 7:00 AM
+18,Mandaluyong,2.0,41 - 50,Unemployed,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",20.0,2.5,Every 7 days,Thursday,11:01 AM - 1:00 PM
+19,Caloocan,4.0,21- 30,Working but No Work from Home at the Moment,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,4.0,Every 7 days,Thursday,1:01 PM - 3:00 PM
+20,Outside Metro Manila,3.0,21- 30,Essential Workforce,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,1.0,Every 7 days,Friday,3:01 PM - 5:00 PM
+21,Manila,4.0,21- 30,Work from Home,Grocery,Walking,5.0,1.0,Every 7 days,Thursday,11:01 AM - 1:00 PM
+22,Outside Metro Manila,4.0,21- 30,Essential Workforce,Grocery,Walking,10.0,1.0,Every 7 days,Sunday,1:01 PM - 3:00 PM
+23,Caloocan,3.0,60 and above,Unemployed,Grocery,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",10.0,3.0,Every 7 days,Thursday,1:01 PM - 3:00 PM
+24,Outside Metro Manila,5.0,51 - 60,Unemployed,Wet Market,Walking,30.0,3.0,Every 7 days,Wednesday,Before 7:00 AM
+25,Mandaluyong,3.0,31 - 40,Work from Home,Grocery,Private Vehicle,30.0,60.0,Every 6 days,Wednesday,11:01 AM - 1:00 PM
+27,Marikina,3.0,20 and below,Unemployed,Wet Market,Motorcycle,30.0,2.5,Every 7 days,Thursday,7:01 AM - 9:00 AM
+28,Paranaque,6.0,61 and above,Unemployed,Online Shopping,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",0.0,0.0,Every 7 days,Sunday,7:01 AM - 9:00 AM
+30,Outside Metro Manila,5.0,51 - 60,Work from Home,Wet Market,Motorcycle,5.0,3.0,Every 7 days,Monday,7:01 AM - 9:00 AM
+31,Outside Metro Manila,3.0,31 - 40,Working but No Work from Home at the Moment,Grocery,Owned PUV,10.0,5.0,Every 7 days,Thursday,9:01 AM - 11:00 AM
+32,San Juan,3.0,51 - 60,Unemployed,Grocery,Owned PUV,20.0,4.5,Every 7 days,Sunday,9:01 AM - 11:00 AM
+33,Pasig,5.0,21 - 30,Work from Home,Wet Market,Private Vehicle,15.0,60.0,Every 7 days,Friday,7:01 AM - 9:00 AM
+34,Manila,4.0,41 - 50,Essential Workforce,Online Shopping,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",0.0,0.0,Every 7 days,Thursday,7:01 AM - 9:00 AM
+35,Taguig,3.0,31 - 40,Unemployed,Online Shopping,"Private Vehicle (Cars, Private Tricycle, Motorcycle, etc)",0.0,0.0,Every 7 days,Thursday,7:01 AM - 9:00 AM
